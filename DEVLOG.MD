@@ -14,3 +14,14 @@
 **Blockers / what I'm stuck on:** I was skeptical about typescript usage but my research concluded it is the best language used to build products that require AI
 
 **Plan for tomorrow:** I will try to push atleast the basic architecture of the code
+
+## Day 3 — 2026-05-23
+
+**Hours worked:** 5
+**What I did:** I read the technical requirements thoroughly, brushed up the concepts of typescript,javascript and react. I pushed the basic architecture of the project like the segregation between the backend and frontend and pushed the necessary files into it and installed the dependencies.
+**What I learned:** I am not adapted to typescript, so i learned aboout certain typescript concepts like interfacess and state functions
+**Blockers / what I'm stuck on:** I was stuck on the combination for the backend setup of express and typescript but there was an ideal to go for which is next.js + typescript but i preferred express beacuase i have worled with it in my past projects
+
+**Plan for tomorrow:** I will try to push atleast the basic architecture of the code
+
+
